@@ -3,6 +3,8 @@
 Esse projeto foi um trabalho proposto pelo professor da disciplina de Algoritmos e Estrutura de Dados II,
 com o intuito de por em prática os conceitos de recursividade apresentados em sala de aula.
 
+O desafio era formar um triângulo de altura X a partir de outros triângulos, que pela minha conclusão eram triângulos que tinham 1/2 da altura de seu adjacente maior, e quanto maior for o número recursivo, mais evidente ficará o triângulo externo. Isso também vale para o quadrado.
+
 ## Informações
 
 O trabalho utiliza a biblioteca gráfica gfx, criada pelo próprio Prof. Fabrício Sérgio de Paula.
